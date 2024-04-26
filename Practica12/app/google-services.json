@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148130652023",
+    "project_id": "fir-imgen",
+    "storage_bucket": "fir-imgen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148130652023:android:e39e10fe24672a971a0b72",
+        "android_client_info": {
+          "package_name": "mx.itson.edu.practica12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrVnV5_uTwwRWLjnQeWigh1cGSpG2UDb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
